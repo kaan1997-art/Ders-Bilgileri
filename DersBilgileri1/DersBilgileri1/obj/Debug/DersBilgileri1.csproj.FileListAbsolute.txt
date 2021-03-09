@@ -1,0 +1,10 @@
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri1.csprojAssemblyReference.cache
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri.Form1.resources
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri1.Properties.Resources.resources
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri1.csproj.GenerateResource.cache
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri1.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\bin\Debug\DersBilgileri1.exe.config
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\bin\Debug\DersBilgileri1.exe
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\bin\Debug\DersBilgileri1.pdb
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri1.exe
+C:\Users\KAAN\source\repos\DersBilgileri1\DersBilgileri1\obj\Debug\DersBilgileri1.pdb
